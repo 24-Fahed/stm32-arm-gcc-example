@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "y_timer.h": "c",
+        "main.h": "c",
+        "math.h": "c",
+        "stm32f10x.h": "c",
+        "y_delay.h": "c",
+        "resource.h": "c",
+        "y_oled.h": "c",
+        "y_usart.h": "c",
+        "stm32f10x_conf.h": "c",
+        "app_uart.h": "c",
+        "y_led.h": "c",
+        "stdio.h": "c",
+        "y_beep.h": "c",
+        "app_gpio.h": "c"
+    }
+}
