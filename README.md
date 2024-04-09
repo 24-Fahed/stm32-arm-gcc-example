@@ -26,8 +26,12 @@
 - MDK项目移植
 
   - 将代码适配于arm-none-eabi-gcc编译器
+ 
+  - 将启动文件适用于arm-none-eabi-gcc编译器
 
   - 将链接脚本（.ld文件）适用于arm-none-eabi-gcc编译器
+ 
+  - 将MicroLIB替换为NEWLIB
 
   - 编写makefile用于管理整个项目
 
